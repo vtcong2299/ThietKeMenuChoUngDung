@@ -1,0 +1,14 @@
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\bin\Debug\net8.0\ThietKeMenuChoUngDung.exe
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\bin\Debug\net8.0\ThietKeMenuChoUngDung.deps.json
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\bin\Debug\net8.0\ThietKeMenuChoUngDung.runtimeconfig.json
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\bin\Debug\net8.0\ThietKeMenuChoUngDung.dll
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\bin\Debug\net8.0\ThietKeMenuChoUngDung.pdb
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\obj\Debug\net8.0\ThietKeMenuChoUngDung.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\obj\Debug\net8.0\ThietKeMenuChoUngDung.AssemblyInfoInputs.cache
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\obj\Debug\net8.0\ThietKeMenuChoUngDung.AssemblyInfo.cs
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\obj\Debug\net8.0\ThietKeMenuChoUngDung.csproj.CoreCompileInputs.cache
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\obj\Debug\net8.0\ThietKeMenuChoUngDung.dll
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\obj\Debug\net8.0\refint\ThietKeMenuChoUngDung.dll
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\obj\Debug\net8.0\ThietKeMenuChoUngDung.pdb
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\obj\Debug\net8.0\ThietKeMenuChoUngDung.genruntimeconfig.cache
+c:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ThietKeMenuChoUngDung\obj\Debug\net8.0\ref\ThietKeMenuChoUngDung.dll
